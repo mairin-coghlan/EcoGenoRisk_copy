@@ -18,7 +18,11 @@ from matplotlib.colors import Normalize
 #_______________________________________________________________________________________
 col1, col2, col3 = st.columns([1, 2, 1])
 with col2: 
+<<<<<<< HEAD
     st.image('EnCen/EnCen GUI Package/logo2.png', width=800)
+=======
+    st.image('/home/anna/Documents/EcoGenoRisk_Paper_Revisions/GUI_Output/logo2.png', width=800)
+>>>>>>> parent of 5d511fb (Merge branch 'UCBoulder:main' into main)
 # st.markdown("<h1 style='text-align: center;'>EcoGenoRisk</h1>", unsafe_allow_html=True)
 st.markdown("<h1 style='text-align: center; font-size: 23px; color: #0F4A0F; '>Managing Synthetic Biology in the Environment</h1>", unsafe_allow_html=True)
 # st.markdown("<h1 style='text-align: center; font-size: 25px; '>Developed by John Docter (john.docter@colorado.edu), University of Colorado - Boulder>", unsafe_allow_html=True)
