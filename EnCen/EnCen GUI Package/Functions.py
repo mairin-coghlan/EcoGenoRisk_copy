@@ -347,3 +347,4 @@ def EC_corrector(home_dir):
             filtered_df.to_csv('BioPesticide Parsed.txt', sep=' ', index = False)
             
   
+# %%
